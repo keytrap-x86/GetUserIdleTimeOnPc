@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetUserIdleTimeOnPc", "GetUserIdleTimeOnPc.csproj", "{79BAEE0A-8EBE-4CE8-9D25-C76E193B6FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BAEE0A-8EBE-4CE8-9D25-C76E193B6FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BAEE0A-8EBE-4CE8-9D25-C76E193B6FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BAEE0A-8EBE-4CE8-9D25-C76E193B6FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BAEE0A-8EBE-4CE8-9D25-C76E193B6FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC70E36-77A1-4B67-AE62-12B514ACD1B9}
+	EndGlobalSection
+EndGlobal
